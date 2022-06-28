@@ -13,7 +13,6 @@ echo $sdf;?>
 $a = array('나무마크' => '[목차]
 == 개요 ==
 위키 문법이다.');
-
 $wPage = new PlainWikiPage($a[$sdf]);
 // NamuMark 생성자는 WikiPage를 인수로 받습니다.
 $wEngine = new NamuMark($wPage);

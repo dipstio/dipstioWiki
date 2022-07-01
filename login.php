@@ -7,7 +7,7 @@
 </head>
 <body>
   <form method="post" action="check_login.php" class="loginForm">
-    <h2>Login</h2>
+    <h2>로그인</h2>
     <div class="idForm">
       <input type="text" name="id" class="id" placeholder="Username">
     </div>
@@ -15,7 +15,7 @@
       <input type="password" name="pw" class="pw" placeholder="Password">
     </div>
     <button type="submit" class="btn" onclick="button()">
-      LOGIN
+      로그인 완료.
     </button>
     <div class="bottomText">
       <a href="#">회원가입</a>

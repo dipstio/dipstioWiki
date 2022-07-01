@@ -1,3 +1,4 @@
+<?php
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -22,3 +23,4 @@
   </form>
 </body>
 </html>
+>
